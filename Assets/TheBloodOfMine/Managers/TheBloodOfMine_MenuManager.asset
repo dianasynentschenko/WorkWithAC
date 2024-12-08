@@ -6377,7 +6377,7 @@ MonoBehaviour:
   manualPosition: {x: 400, y: 37.80909}
   positionSmoothing: 0
   alignment: 0
-  toggleKey: 
+  toggleKey: ToggleInventory
   ignoreMouseClicks: 0
   pauseWhenEnabled: 0
   showWhenPaused: 0
@@ -6395,7 +6395,7 @@ MonoBehaviour:
   - {fileID: -6570893266356478258}
   - {fileID: -4388462099691733415}
   transitionProgress: 0
-  appearType: 1
+  appearType: 3
   speechMenuType: 0
   speechMenuLimit: 0
   limitToCharacters: 
