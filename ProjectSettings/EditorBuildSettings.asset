@@ -6,9 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/2_24.unity
-    guid: 5fa69302884d00c429e61e5bf848359a
+    path: Assets/Dias Games/Climbing System/Scenes/CS Demo Scene.unity
+    guid: be30c1826347f844bbc6c6356d32e2a9
   - enabled: 1
-    path: Assets/2_25.unity
-    guid: 41e16a532a676734bbd2e870913c3b91
+    path: Assets/Dias Games/Climbing System/Scenes/CS Demo Scene - Rigidbody.unity
+    guid: 0529c93a77535684c8cda7e7d30d378b
+  - enabled: 1
+    path: Assets/Dias Games/Climbing System/Scenes/CS Demo Scene - Mobile.unity
+    guid: d7bb7b6e5e26af34baaa950f28b69bf8
+  - enabled: 0
+    path: Assets/TheBloodOfMine/Sample 3D Scene/SampleScene.unity
+    guid: 6f467d89a0196214aa08b8421c272637
   m_configObjects: {}

@@ -4,7 +4,13 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - BackgroundCamera
+  - LedgeLimit
+  - Ladder
+  - Enemy
+  - Metal
+  - Stone
+  - Wood
+  - Sand
   layers:
   - Default
   - TransparentFX
@@ -21,11 +27,11 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Character
+  - Climb
+  - Short Climb
+  - Vault
+  - Wall Run
   - 
   - 
   - 
