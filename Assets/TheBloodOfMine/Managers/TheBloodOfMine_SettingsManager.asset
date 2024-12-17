@@ -44,7 +44,7 @@ MonoBehaviour:
   playerSwitching: 1
   legacyPlayer: {fileID: 0}
   playerPrefab:
-    playerOb: {fileID: 5123638515458636495, guid: 437302a35cab1de4c8ed8a6ccbdbbfc3, type: 3}
+    playerOb: {fileID: 0}
     ID: 0
     isDefault: 0
     startingSceneIndex: 0
@@ -69,7 +69,7 @@ MonoBehaviour:
     startingSceneName: 
     useSceneDefaultPlayerStart: 1
     startingPlayerStartID: 0
-  movementMethod: 1
+  movementMethod: 4
   inputMethod: 0
   simulatedCursorMoveSpeed: 4
   interactionMethod: 0
@@ -86,7 +86,7 @@ MonoBehaviour:
   allowDefaultinteractions: 0
   alwaysCloseInteractionMenus: 1
   whenReselectHotspot: 0
-  lockCursorOnStart: 1
+  lockCursorOnStart: 0
   hideLockedCursor: 0
   disableFreeAimWhenDragging: 0
   disableFreeAimWhenDraggingPickUp: 0
