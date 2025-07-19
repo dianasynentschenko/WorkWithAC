@@ -1386,7 +1386,7 @@ MonoBehaviour:
   motionControl: 0
   talkingAnimation: 0
   separateTalkingLayer: 0
-  speechLabel: Brain
+  speechLabel: "\u0414\u0456\u0432\u0447\u0438\u043D\u0430"
   lineID: -1
   displayLineID: -1
   speechColor: {r: 1, g: 1, b: 1, a: 1}
